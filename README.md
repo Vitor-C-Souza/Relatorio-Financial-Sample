@@ -4,16 +4,17 @@ Este repositório contém a solução do desafio prático do módulo de Power BI
 
 ---
 
-## 📌 Estrutura do Relatório
-
-O arquivo `.pbix` foi dividido em três páginas principais, organizadas da seguinte forma:
+## 📌 Estrutura do Relatório e Visualizações
 
 ### 1. Relatório de Vendas Considerando Produtos e Segmento
 Foco na distribuição das vendas por linha de produtos e comportamentos temporais por segmento.
 * **Segmentação de Dados (Filtro):** Seleção temporal por Ano/Mês.
 * **Gráfico de Pizza:** Soma de Vendas (*Sales*) por Produto.
-* **Gráfico de Área/Linha:** Média de Preço de Venda (*Sale Price*) por Produto.
+* **Gráfico de Linha/Área:** Média de Preço de Venda (*Sale Price*) por Produto.
 * **Gráfico de Colunas Empilhadas:** Soma de Vendas por Ano, Mês e Segmento.
+
+<br />
+<img width="1919" height="1079" alt="Relatório de Vendas por Produto e Segmento" src="https://github.com/user-attachments/assets/877f359f-9781-4a3b-86cc-03fc9b4a3c8a" />
 
 ---
 
@@ -26,6 +27,9 @@ Visão geral do desempenho financeiro focado em volume e resultado líquido por 
 * **Gráfico de Colunas:** Média de Lucro por Ano e Mês.
 * **Gráfico de Barras Clássico:** Soma de Vendas por País.
 
+<br />
+<img width="1919" height="1078" alt="Relatório de Vendas por Países e Lucro" src="https://github.com/user-attachments/assets/631d3773-ef9f-4b73-9ddf-982752a8de45" />
+
 ---
 
 ### 3. Distribuição de Lucro, Vendas e Unidades Vendidas por País e Segmento (Página Construída do Zero)
@@ -33,6 +37,9 @@ Página desenvolvida para praticar a criação de visuais de mapa e análises se
 * **Visual de Pizza:** Soma de Lucro (*Profit*) por Segmento (*Segment*).
 * **Visual Mapa 1:** Distribuição da Soma de Vendas (*Sales*) e Unidades Vendidas (*Units Sold*) por País (*Country*).
 * **Visual Mapa 2:** Distribuição da Soma de Lucro (*Profit*) por País (*Country*).
+
+<br />
+<img width="1023" height="575" alt="Distribuição por País e Segmento com Mapas" src="https://github.com/user-attachments/assets/33901779-dfcb-4132-8153-b52e214978de" />
 
 ---
 
